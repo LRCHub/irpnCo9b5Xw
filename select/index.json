@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "閃光ハヤブサ",
+  "base_artist": "GRe4N BOYZ",
+  "createdAt": "2026-03-22T05:57:34.255263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "閃光ハヤブサ",
+      "artist": "GRe4N BOYZ",
+      "has_synced": false,
+      "path": "select/pl_01_閃光ハヤブサ_GRe4N_BOYZ.txt"
+    }
+  ]
+}
